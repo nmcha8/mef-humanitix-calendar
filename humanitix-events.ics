@@ -7,7 +7,7 @@ X-WR-CALNAME:MEF Humanitix Events
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 UID:6aa77e1b0a33d584492499f3@humanitix-calendar-feed.local
-DTSTAMP:20260914T050002Z
+DTSTAMP:20261001T000003Z
 DTSTART:20261125T063000Z
 DTEND:20261125T090000Z
 SUMMARY:November Event
@@ -16,21 +16,11 @@ LOCATION:9/15 Research St\, Coolum Beach QLD 4573\, Australia
 END:VEVENT
 BEGIN:VEVENT
 UID:6aa77d50abaa7660cd05c41a@humanitix-calendar-feed.local
-DTSTAMP:20260914T050002Z
+DTSTAMP:20261001T000003Z
 DTSTART:20261028T063000Z
 DTEND:20261028T090000Z
 SUMMARY:October Event
 URL:https://events.humanitix.com/mefsc-october-event
 LOCATION:9/15 Research St\, Coolum Beach QLD 4573\, Australia
-END:VEVENT
-BEGIN:VEVENT
-UID:6a83ac508e41492e4f1bd9af@humanitix-calendar-feed.local
-DTSTAMP:20260914T050002Z
-DTSTART:20260930T063000Z
-DTEND:20260930T090000Z
-SUMMARY:50 Years of Manufacturing a Good night's Sleep at The Mattress Comp
- any
-URL:https://events.humanitix.com/september-event-at-the-mattress-company
-LOCATION:5 Pioneer Rd\, Yandina QLD 4561\, Australia
 END:VEVENT
 END:VCALENDAR
