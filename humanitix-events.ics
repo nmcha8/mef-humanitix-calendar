@@ -7,19 +7,19 @@ X-WR-CALNAME:MEF Humanitix Events
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 UID:6aa77e1b0a33d584492499f3@humanitix-calendar-feed.local
-DTSTAMP:20261006T040003Z
+DTSTAMP:20261009T000003Z
 DTSTART:20261125T063000Z
 DTEND:20261125T090000Z
 SUMMARY:November Event
 URL:https://events.humanitix.com/mefsc-november-event
-LOCATION:9/15 Research St\, Coolum Beach QLD 4573\, Australia
+LOCATION:59 Industrial Ave\, Kunda Park QLD 4556\, Australia
 END:VEVENT
 BEGIN:VEVENT
 UID:6aa77d50abaa7660cd05c41a@humanitix-calendar-feed.local
-DTSTAMP:20261006T040003Z
+DTSTAMP:20261009T000003Z
 DTSTART:20261028T063000Z
 DTEND:20261028T090000Z
-SUMMARY:Inventory Management Systems Fun at Quickcorp
+SUMMARY:Inventory Management Systems Fun at Quik Corp
 URL:https://events.humanitix.com/mefsc-october-event
 LOCATION:9/15 Research St\, Coolum Beach QLD 4573\, Australia
 END:VEVENT
